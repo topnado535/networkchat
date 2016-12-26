@@ -1,3 +1,0 @@
-D:/networkchat/build/CMakeFiles/network-chat.dir
-D:/networkchat/build/CMakeFiles/ALL_BUILD.dir
-D:/networkchat/build/CMakeFiles/ZERO_CHECK.dir
